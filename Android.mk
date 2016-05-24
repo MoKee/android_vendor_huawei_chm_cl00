@@ -1,4 +1,4 @@
-# Copyright (C) 2015 The CyanogenMod Project
+# Copyright (C) 2015 The MoKee Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -122,7 +122,7 @@ LOCAL_MULTILIB := 64
 LOCAL_PROPRIETARY_MODULE := true
 include $(BUILD_PREBUILT)
 
-include \$(CLEAR_VARS)
+include $(CLEAR_VARS)
 LOCAL_MODULE := libtfa9895
 LOCAL_MODULE_OWNER := $VENDOR
 LOCAL_SRC_FILES_64 := proprietary/lib64/libtfa9895.so
@@ -134,7 +134,7 @@ LOCAL_MODULE_PATH_64 := $(TARGET_OUT_SHARED_LIBRARIES)
 LOCAL_MODULE_PATH_32 := $(2ND_TARGET_OUT_SHARED_LIBRARIES)
 LOCAL_MULTILIB := both
 LOCAL_PROPRIETARY_MODULE := true
-include \$(BUILD_PREBUILT)
+include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libaudioalsa
