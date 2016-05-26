@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
     vendor/huawei/chm_cl00/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
     vendor/huawei/chm_cl00/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
+    vendor/huawei/chm_cl00/proprietary/app/QNfc/QNfc.apk:system/app/QNfc/QNfc.apk \
     vendor/huawei/chm_cl00/proprietary/xbin/busybox:system/xbin/busybox \
     vendor/huawei/chm_cl00/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/huawei/chm_cl00/proprietary/bin/aostlmd:system/bin/aostlmd \
@@ -351,7 +352,9 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/huawei/chm_cl00/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/huawei/chm_cl00/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-    vendor/huawei/chm_cl00/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
+    vendor/huawei/chm_cl00/proprietary/etc/permissions/com.android.nfc.helper.xml:system/etc/permissions/com.android.nfc.helper.xml \
+    vendor/huawei/chm_cl00/proprietary/etc/permissions/com.android.qualcomm.qti.nfc_extras.xml:system/etc/permissions/com.android.qualcomm.qti.nfc_extras.xml \
+    vendor/huawei/chm_cl00/proprietary/etc/permissions/com.vzw.nfc.xml:system/etc/permissions/com.vzw.nfc.xml \
     vendor/huawei/chm_cl00/proprietary/etc/sound_param/chm_cl/audio_para_version:system/etc/sound_param/chm_cl/audio_para_version \
     vendor/huawei/chm_cl00/proprietary/etc/sound_param/chm_cl/Bluetooth_cal.acdb:system/etc/sound_param/chm_cl/Bluetooth_cal.acdb \
     vendor/huawei/chm_cl00/proprietary/etc/sound_param/chm_cl/General_cal.acdb:system/etc/sound_param/chm_cl/General_cal.acdb \
@@ -423,6 +426,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/framework/com.google.widevine.software.drm.jar:system/framework/com.google.widevine.software.drm.jar \
     vendor/huawei/chm_cl00/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/huawei/chm_cl00/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
+    vendor/huawei/chm_cl00/proprietary/framework/com.android.nfc.helper.jar:system/framework/com.android.nfc.helper.jar \
+    vendor/huawei/chm_cl00/proprietary/framework/com.android.nfc_extras.jar:system/framework/com.android.nfc_extras.jar \
+    vendor/huawei/chm_cl00/proprietary/framework/com.android.qualcomm.qti.nfc_extras.jar:system/framework/com.android.qualcomm.qti.nfc_extras.jar \
+    vendor/huawei/chm_cl00/proprietary/framework/com.vzw.nfc.jar:system/framework/com.vzw.nfc.jar \
     vendor/huawei/chm_cl00/proprietary/lib/libaudioflinger.huawei.so:system/lib/libaudioflinger.huawei.so \
     vendor/huawei/chm_cl00/proprietary/lib/libcamera_post_mediaserver.so:system/lib/libcamera_post_mediaserver.so \
     vendor/huawei/chm_cl00/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
