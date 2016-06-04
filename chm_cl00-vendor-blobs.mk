@@ -431,6 +431,15 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/framework/com.android.nfc_extras.jar:system/framework/com.android.nfc_extras.jar \
     vendor/huawei/chm_cl00/proprietary/framework/com.android.qualcomm.qti.nfc_extras.jar:system/framework/com.android.qualcomm.qti.nfc_extras.jar \
     vendor/huawei/chm_cl00/proprietary/framework/com.vzw.nfc.jar:system/framework/com.vzw.nfc.jar \
+    vendor/huawei/chm_cl00/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libhdr.so:system/lib/libhdr.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libmrc_cg_filters.so:system/lib/libmrc_cg_filters.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libmrc_cg_mfdenoise.so:system/lib/libmrc_cg_mfdenoise.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libmrc_cg_myFilter.so:system/lib/libmrc_cg_myFilter.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libmrc_cg_niceFood.so:system/lib/libmrc_cg_niceFood.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libmrc_cg_postprocess.so:system/lib/libmrc_cg_postprocess.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libSFBE.so:system/lib/libSFBE.so \
+    vendor/huawei/chm_cl00/proprietary/lib/libSmartAE.so:system/lib/libSmartAE.so \
     vendor/huawei/chm_cl00/proprietary/lib/libaudioflinger.huawei.so:system/lib/libaudioflinger.huawei.so \
     vendor/huawei/chm_cl00/proprietary/lib/libcamera_post_mediaserver.so:system/lib/libcamera_post_mediaserver.so \
     vendor/huawei/chm_cl00/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
