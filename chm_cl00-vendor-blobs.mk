@@ -457,7 +457,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/lib/libdmd.so:system/lib/libdmd.so \
     vendor/huawei/chm_cl00/proprietary/lib/libtfa9895.so:system/lib/libtfa9895.so \
     vendor/huawei/chm_cl00/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
-    vendor/huawei/chm_cl00/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
+    vendor/huawei/chm_cl00/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
     vendor/huawei/chm_cl00/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/huawei/chm_cl00/proprietary/lib/hw/fm.qcom.msm8916.so:system/lib/hw/fm.qcom.msm8916.so \
     vendor/huawei/chm_cl00/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
