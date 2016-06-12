@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
     vendor/huawei/chm_cl00/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
     vendor/huawei/chm_cl00/proprietary/app/QNfc/QNfc.apk:system/app/QNfc/QNfc.apk \
+    vendor/huawei/chm_cl00/proprietary/priv-app/ViPER4Android/ViPER4Android.apk:system/priv-app/ViPER4Android/ViPER4Android.apk \
     vendor/huawei/chm_cl00/proprietary/xbin/busybox:system/xbin/busybox \
     vendor/huawei/chm_cl00/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/huawei/chm_cl00/proprietary/bin/aostlmd:system/bin/aostlmd \
@@ -431,6 +432,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/framework/com.android.nfc_extras.jar:system/framework/com.android.nfc_extras.jar \
     vendor/huawei/chm_cl00/proprietary/framework/com.android.qualcomm.qti.nfc_extras.jar:system/framework/com.android.qualcomm.qti.nfc_extras.jar \
     vendor/huawei/chm_cl00/proprietary/framework/com.vzw.nfc.jar:system/framework/com.vzw.nfc.jar \
+    vendor/huawei/chm_cl00/proprietary/lib/soundfx/libv4a.so:system/lib/soundfx/libv4a.so \
     vendor/huawei/chm_cl00/proprietary/lib/libFNVfbEngineLib.so:system/lib/libFNVfbEngineLib.so \
     vendor/huawei/chm_cl00/proprietary/lib/libhdr.so:system/lib/libhdr.so \
     vendor/huawei/chm_cl00/proprietary/lib/libmrc_cg_filters.so:system/lib/libmrc_cg_filters.so \
