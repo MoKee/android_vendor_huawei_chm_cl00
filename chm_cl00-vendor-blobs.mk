@@ -1436,11 +1436,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/vendor/lib/hw/nfc_nci.qc199x.default.so:system/vendor/lib/hw/nfc_nci.qc199x.default.so \
     vendor/huawei/chm_cl00/proprietary/vendor/lib/hw/sound_trigger.primary.msm8916.so:system/vendor/lib/hw/sound_trigger.primary.msm8916.so \
     vendor/huawei/chm_cl00/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/huawei/chm_cl00/proprietary/vendor/lib/qcdrm/playready/lib/libprdrmdecrypt_customer.so:system/vendor/lib/qcdrm/playready/lib/libprdrmdecrypt_customer.so \
-    vendor/huawei/chm_cl00/proprietary/vendor/lib/qcdrm/playready/lib/libtzplayready_customer.so:system/vendor/lib/qcdrm/playready/lib/libtzplayready_customer.so \
-    vendor/huawei/chm_cl00/proprietary/vendor/lib/qcdrm/playready/lib/drm/libdrmprplugin_customer.so:system/vendor/lib/qcdrm/playready/lib/drm/libdrmprplugin_customer.so \
-    vendor/huawei/chm_cl00/proprietary/vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmdecrypt_customer.so:system/vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmdecrypt_customer.so \
-    vendor/huawei/chm_cl00/proprietary/vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmplugin_customer.so:system/vendor/lib/qcdrm/playready/lib/mediadrm/libprmediadrmplugin_customer.so \
     vendor/huawei/chm_cl00/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/huawei/chm_cl00/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/huawei/chm_cl00/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
@@ -2137,8 +2132,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/vendor/lib64/hw/gatekeeper.msm8916.so:system/vendor/lib64/hw/gatekeeper.msm8916.so \
     vendor/huawei/chm_cl00/proprietary/vendor/lib64/hw/keystore.msm8916.so:system/vendor/lib64/hw/keystore.msm8916.so \
     vendor/huawei/chm_cl00/proprietary/vendor/lib64/hw/nfc_nci.qc199x.default.so:system/vendor/lib64/hw/nfc_nci.qc199x.default.so \
-    vendor/huawei/chm_cl00/proprietary/vendor/lib64/qcdrm/playready/lib/libtzplayready_customer.so:system/vendor/lib64/qcdrm/playready/lib/libtzplayready_customer.so \
-    vendor/huawei/chm_cl00/proprietary/vendor/lib64/qcdrm/playready/lib/mediadrm/libprmediadrmplugin_customer.so:system/vendor/lib64/qcdrm/playready/lib/mediadrm/libprmediadrmplugin_customer.so \
     vendor/huawei/chm_cl00/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/huawei/chm_cl00/proprietary/wifi/wifi_clpc_2.3.sh:system/wifi/wifi_clpc_2.3.sh \
     vendor/huawei/chm_cl00/proprietary/wifi/wifi_clpc_mt_2.3.sh:system/wifi/wifi_clpc_mt_2.3.sh \
