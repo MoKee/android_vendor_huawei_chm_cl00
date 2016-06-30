@@ -154,7 +154,7 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := libqmi_oem_api
 LOCAL_MODULE_OWNER := $VENDOR
 LOCAL_SRC_FILES_64 := proprietary/lib64/libqmi_oem_api.so
-LOCAL_SRC_FILES_32 := proprietary/lib32/libqmi_oem_api.so
+LOCAL_SRC_FILES_32 := proprietary/lib/libqmi_oem_api.so
 LOCAL_MODULE_PATH_64 := $(TARGET_OUT_SHARED_LIBRARIES)
 LOCAL_MODULE_PATH_32 := $(2ND_TARGET_OUT_SHARED_LIBRARIES)
 LOCAL_MULTILIB := both
