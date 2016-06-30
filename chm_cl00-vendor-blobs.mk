@@ -452,7 +452,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/huawei/chm_cl00/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/chm_cl00/proprietary/lib/libqmi_nv_api.so:system/lib/libqmi_nv_api.so \
-    vendor/huawei/chm_cl00/proprietary/lib/libqmi_oem_api.so:system/lib/libqmi_oem_api.so \
     vendor/huawei/chm_cl00/proprietary/lib/libqmi_oem_svc.so:system/lib/libqmi_oem_svc.so \
     vendor/huawei/chm_cl00/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/huawei/chm_cl00/proprietary/lib/lib_oeminfo_interface.so:system/lib/lib_oeminfo_interface.so \
@@ -469,7 +468,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/chm_cl00/proprietary/lib64/liboeminfo.so:system/lib64/liboeminfo.so \
     vendor/huawei/chm_cl00/proprietary/lib64/libOmxVdecHevc.so:system/lib64/libOmxVdecHevc.so \
     vendor/huawei/chm_cl00/proprietary/lib64/libqmi_nv_api.so:system/lib64/libqmi_nv_api.so \
-    vendor/huawei/chm_cl00/proprietary/lib64/libqmi_oem_api.so:system/lib64/libqmi_oem_api.so \
     vendor/huawei/chm_cl00/proprietary/lib64/libqmi_oem_svc.so:system/lib64/libqmi_oem_svc.so \
     vendor/huawei/chm_cl00/proprietary/lib64/lib_oeminfo_interface.so:system/lib64/lib_oeminfo_interface.so \
     vendor/huawei/chm_cl00/proprietary/lib64/libdmd.so:system/lib64/libdmd.so \
